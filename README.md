@@ -2,7 +2,7 @@
 
 # ✦ Flavor
 
-### A Modern Digital Agency Landing Page
+### A Modern Digital Agency Landing Page -------------------------
 
 **Built with pure HTML & CSS — zero JavaScript, zero frameworks, zero dependencies.**
 
